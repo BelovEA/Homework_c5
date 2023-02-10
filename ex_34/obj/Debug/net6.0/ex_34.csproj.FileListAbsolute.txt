@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\bin\Debug\net6.0\ex_34.exe
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\bin\Debug\net6.0\ex_34.deps.json
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\bin\Debug\net6.0\ex_34.runtimeconfig.json
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\bin\Debug\net6.0\ex_34.dll
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\bin\Debug\net6.0\ex_34.pdb
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ex_34.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ex_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ex_34.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ex_34.AssemblyInfo.cs
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ex_34.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ex_34.dll
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\refint\ex_34.dll
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ex_34.pdb
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ex_34.genruntimeconfig.cache
+C:\Users\Professional\Desktop\C# lessons and hw\gw_5(faunc and arrays)\ex_34\obj\Debug\net6.0\ref\ex_34.dll
