@@ -23,10 +23,10 @@ int[] MakeArray(int n, int min, int max)
 
 int EvenNumbersCount(int[] array)
 {
-    int count = 0; 
-    for (int i = 0; i < array.Length; i++)
+    int count = 0;
+    foreach (int num in array)
     {
-        if ( array[i] % 2 == 0 )
+        if (num % 2 == 0)
         {
             count++;
         }
@@ -34,7 +34,9 @@ int EvenNumbersCount(int[] array)
     return count;
 }
 
+
 int[] array = MakeArray(4, 100, 1000);
+Console.WriteLine("Задача 34");
 PrintArray(array);
 int evencounter = EvenNumbersCount(array);
-Console.WriteLine($"В массиве {evencounter} четных числа");
+Console.WriteLine($"In the array, there are {evencounter} even numbers");
